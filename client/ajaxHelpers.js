@@ -1,4 +1,3 @@
-import axios from 'axios';
 // Add your cohort name to the cohortName variable below, replacing the 'COHORT-NAME' placeholder
 const cohortName = 'COHORT-NAME';
 // Use the APIURL variable for fetch requests
